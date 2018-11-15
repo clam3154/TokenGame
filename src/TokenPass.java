@@ -41,6 +41,7 @@ public class TokenPass
         {
             System.out.print("Player " + i + ": " + board[i] + " ");
         }
+        System.out.println();
     }
 
     public int gameOver()
